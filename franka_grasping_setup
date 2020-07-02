@@ -1,0 +1,4 @@
+source vector45/bin/activate
+cd vector45/Franka-Grasping
+export LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libGLEW.so 
+python grasping_sim.py

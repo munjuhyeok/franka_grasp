@@ -1,0 +1,8 @@
+Read Me. 
+
+1. move 'Franka-Grasping' folder to your virtual environment folder
+2. open 'grasping_sim.py' and change directory in line 2 to mujoco-py in your virtural environment
+3. open 'franka_grasping_setup.txt' file and change vector45 in first two lines to your virtual environment folder name 
+4. copy and paste all contents in 'franka_grasping_setup.txt' file to terminal to execute 'grasping_sim.py'  
+
+for futher inquires, please contact 'tgahn@robotics.snu.ac.kr'
